@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\bin\Debug\net6.0\StartingExeptions.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\bin\Debug\net6.0\StartingExeptions.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\bin\Debug\net6.0\StartingExeptions.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\bin\Debug\net6.0\StartingExeptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\bin\Debug\net6.0\StartingExeptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\refint\StartingExeptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\StartingExeptions.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\StartingExeptions\StartingExeptions\obj\Debug\net6.0\ref\StartingExeptions.dll
