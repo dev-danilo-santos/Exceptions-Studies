@@ -13,15 +13,15 @@
                 Console.WriteLine(Result);
             }
 
-            catch (DivideByZeroException e)
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("Error! You can't divide a number by zero! please do not do that.");
             }
             catch (FormatException) 
             {
-                Console.WriteLine("You can't enter on a alphabetic letter, only integers numbers! ");
+                Console.WriteLine("You can't enter on a alphabetic letter, symbols or floating numbers, only integers numbers! ");
             }
-
+            
         }
     }
 }

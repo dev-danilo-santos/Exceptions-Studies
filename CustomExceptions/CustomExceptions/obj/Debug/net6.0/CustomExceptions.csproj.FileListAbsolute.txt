@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\bin\Debug\net6.0\CustomExceptions.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\bin\Debug\net6.0\CustomExceptions.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\bin\Debug\net6.0\CustomExceptions.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\bin\Debug\net6.0\CustomExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\bin\Debug\net6.0\CustomExceptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\refint\CustomExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\CustomExceptions.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\CustomExceptions\CustomExceptions\obj\Debug\net6.0\ref\CustomExceptions.dll
