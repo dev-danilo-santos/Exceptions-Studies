@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\bin\Debug\net6.0\AccountExceptions.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\bin\Debug\net6.0\AccountExceptions.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\bin\Debug\net6.0\AccountExceptions.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\bin\Debug\net6.0\AccountExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\bin\Debug\net6.0\AccountExceptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\refint\AccountExceptions.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\AccountExceptions.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Exceptions\AccountExceptions\AccountExceptions\obj\Debug\net6.0\ref\AccountExceptions.dll
